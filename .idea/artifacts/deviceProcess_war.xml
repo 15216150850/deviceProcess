@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="deviceProcess:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="time-bank-dy.war">
+      <element id="artifact" artifact-name="deviceProcess:war exploded" />
+    </root>
+  </artifact>
+</component>
